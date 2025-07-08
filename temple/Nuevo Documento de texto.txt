@@ -1,0 +1,30 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;500&amp;display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Antonio:wght@100..700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+    <link rel="icon" href="assets/img/logo-32x32.png" sizes="32x32" />
+    <link rel="icon" href="assets/img/logo-192x192.png" sizes="192x192" />
+
+    <title>CRAFT - Producción a la medida</title>
+
+    <link href="assets/css/plugins.css" rel="stylesheet" />
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body class="v-dark dsn-ajax">
+    
+
+    <script src="assets/js/jquery-3.7.1.min.js"></script>
+    <script src="assets/js/plugins.min.js"></script>
+    <script src="assets/js/plugins/dsn-grid.min.js"></script>
+    <script src="assets/js/custom.js"></script>
+</body>
+</html>
