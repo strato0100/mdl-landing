@@ -1,2 +1,0 @@
-# mdl-landing
-Modul landing
